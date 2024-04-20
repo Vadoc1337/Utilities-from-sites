@@ -1,4 +1,12 @@
+<div align="center" style="text-align: center;">
+  
 # [Сайт Нотариуса / Notary Website](https://www.notarymen.ru "Сайт Нотариуса г.Новосибирска")
+
+</div>
+
+<div>
+<img src="Screenshots/main_page.png " alt="Main page"/>
+</div>
 
 # |RU|
 
@@ -37,6 +45,6 @@ The **current_js** folder contains custom js files for various logic on the site
 Here you can see some screenshots:
 
 <div>
-<img src="Screenshots/mail_form.png " alt="Mail_Form" width="400"/>
-<img src="Screenshots/img_hint.png" alt="Img_Hint" width="400" height="455"/>
+<img src="Screenshots/mail_form.png " alt="Mail form" width="400"/>
+<img src="Screenshots/img_hint.png" alt="Img hint" width="400" height="455"/>
 </div>
