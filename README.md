@@ -37,6 +37,6 @@ The **current_js** folder contains custom js files for various logic on the site
 Here you can see some screenshots:
 
 <div>
-<img src="Screenshots/mail_form.png " alt="drawing" width="400"/>
-<img src="Screenshots/img_hint.png" alt="drawing" width="440"/>
+<img src="Screenshots/mail_form.png " alt="Mail_Form" width="400"/>
+<img src="Screenshots/img_hint.png" alt="Img_Hint" width="400" height="455"/>
 </div>
